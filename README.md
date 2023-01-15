@@ -5,13 +5,13 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![GitHub forks](https://img.shields.io/github/forks/Techiesplash/Matchmaker-API-Server)
-![GitHub repo size](https://img.shields.io/github/repo-size/Techiesplash/Matchmaker-API-Server)
-![GitHub all releases](https://img.shields.io/github/downloads/Techiesplash/Matchmaker-API-Server/total)
-![GitHub issues](https://img.shields.io/github/issues/Techiesplash/Matchmaker-API-Server)
+![GitHub forks](https://img.shields.io/github/forks/Techiesplash/MatchmakerServer)
+![GitHub repo size](https://img.shields.io/github/repo-size/Techiesplash/MatchmakerServer)
+![GitHub all releases](https://img.shields.io/github/downloads/Techiesplash/MatchmakerServer)
+![GitHub issues](https://img.shields.io/github/issues/Techiesplash/MatchmakerServer)
 
-![GitHub](https://img.shields.io/github/license/Techiesplash/Matchmaker-API-Server)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Techiesplash/Matchmaker-API-Server)
+![GitHub](https://img.shields.io/github/license/Techiesplash/MatchmakerServer)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Techiesplash/MatchmakerServer)
   
   
 <h2>Introduction</h2>
