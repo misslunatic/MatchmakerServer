@@ -53,7 +53,7 @@ Now build and run, and it should be done.
 This project is built upon MIT-Licensed code by Tom Weiland meant for a tutorial series.
 Please check out his work: https://github.com/tom-weiland/tcp-udp-networking
 
-See also the list of [contributors](https://github.com/Techiesplash/ParentalControls/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Techiesplash/MatchmakerServer/contributors) who participated in this project.
 
 ## License
 
